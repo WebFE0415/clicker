@@ -1,0 +1,60 @@
+# 发布仓库专用 .gitignore
+# 只保留发布相关文件，排除所有源码
+
+# ==========================================
+# 排除所有源码和开发文件
+# ==========================================
+
+# 源码目录
+src/
+electron/
+scripts/
+
+# 开发依赖
+node_modules/
+package-lock.json
+yarn.lock
+
+# 构建配置
+package.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.eslintrc.*
+.prettierrc.*
+
+# 开发工具
+.vscode/
+.idea/
+*.log
+
+# 临时文件
+dist/
+dist-electron/
+.cache/
+.temp/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 环境配置
+.env*
+
+# ==========================================
+# 只保留以下文件
+# ==========================================
+# ✅ README.md
+# ✅ LICENSE
+# ✅ CHANGELOG.md
+# ✅ releases/ 文件夹（包含.exe, .dmg, .AppImage等）
+# ✅ docs/ 文档文件夹
+# ✅ screenshots/ 截图文件夹
+# ✅ .github/ GitHub配置（可选）
+
+# 如果您想排除特定的发布文件，可以在这里添加
+# 例如：
+# releases/debug/
+# releases/*.map
