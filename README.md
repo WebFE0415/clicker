@@ -68,11 +68,8 @@
 ## 📸 应用截图
 
 <img width="1186" height="993" alt="image" src="https://github.com/user-attachments/assets/1c918bd7-77f8-45bc-b104-192ae82f9dbb" />
-[主界面](docs/screenshots/main-interface.png)
 <img width="1185" height="1162" alt="image" src="https://github.com/user-attachments/assets/71c03907-aea3-4b40-a5c0-8d1cddb2bf20" />
-[区域选择](docs/screenshots/area-selection.png)
 <img width="1186" height="993" alt="image" src="https://github.com/user-attachments/assets/f6e369d5-4529-4424-903e-1ea617515412" />
-[设置面板](docs/screenshots/settings-panel.png)
 
 ## 🔄 版本历史
 
