@@ -1,6 +1,6 @@
 # 🎯 智能鼠标连点工具
 
-> 专业的桌面自动点击解决方案，专为直播点赞和自动化任务设计
+> 专业的桌面自动点击解决方案，支持当前位置点击和选择区域随机点击
 
 [![GitHub release](https://img.shields.io/github/release/WebFE0415/clicker.svg)](https://github.com/WebFE0415/clicker/releases)
 [![GitHub downloads](https://img.shields.io/github/downloads/WebFE0415/clicker/total.svg)](https://github.com/WebFE0415/clicker/releases)
@@ -8,7 +8,7 @@
 
 ## ✨ 功能特色
 
-- 🖱️ **双模式点击**：支持当前位置点击和区域随机点击
+- 🖱️ **双模式点击**：支持当前位置点击和选择区域随机点击
 - ⚡ **超高速点击**：最快支持1ms间隔的极速点击
 - 🎯 **精确区域选择**：可视化拖拽选择点击区域
 - 🔥 **热键控制**：F9启停，F10紧急停止
@@ -67,9 +67,12 @@
 
 ## 📸 应用截图
 
-![主界面](docs/screenshots/main-interface.png)
-![区域选择](docs/screenshots/area-selection.png)
-![设置面板](docs/screenshots/settings-panel.png)
+<img width="1186" height="993" alt="image" src="https://github.com/user-attachments/assets/1c918bd7-77f8-45bc-b104-192ae82f9dbb" />
+[主界面](docs/screenshots/main-interface.png)
+<img width="1185" height="1162" alt="image" src="https://github.com/user-attachments/assets/71c03907-aea3-4b40-a5c0-8d1cddb2bf20" />
+[区域选择](docs/screenshots/area-selection.png)
+<img width="1186" height="993" alt="image" src="https://github.com/user-attachments/assets/f6e369d5-4529-4424-903e-1ea617515412" />
+[设置面板](docs/screenshots/settings-panel.png)
 
 ## 🔄 版本历史
 
