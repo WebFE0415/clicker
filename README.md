@@ -45,9 +45,7 @@
 
 ## 📖 详细文档
 
-- [📥 安装指南](docs/installation.md)
-- [📚 使用教程](docs/usage.md)
-- [❓ 常见问题](docs/faq.md)
+- [📥 安装指南](README.md)
 - [🔄 更新日志](CHANGELOG.md)
 
 ## 🎮 快捷键
